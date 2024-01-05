@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Gabriel Gomes
 
 - 👀 I’m interested in Data Science and BackEnd Development, 
-Know i'm using Python, SQL, Git, Excel
-For this Year (2024) -> Rust, C# .Net
+Know i'm using Python, SQL, Git, Excel.
+For this Year (2024) I want to Learn -> Rust, C# .Net
 
 - 🌱 I’m currently learning Git, Python FrameWorks and APIs,
   
-- 💞️ I’m looking to collaborate on "Batalha de Algoritmo" and my personal projects
+- 💞️ I’m looking to collaborate on "Rinha de Algoritmo" and my personal projects
   
 - 📫 How to reach me:
 https://www.linkedin.com/in/gabrielng-rj99/
