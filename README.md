@@ -1,24 +1,33 @@
 ### 👋 Hi, I’m Gabriel Gomes
 ### and I'm interested in Data Science(and ML) and Software Development, 
 #### 👀 Technologies:
-- Bash/PowerShell || Git(Hub)
-- Docker
-- Python || Rust(learning and mostly translation) || Excel/VBA(enought to DA) || SQL || APIs
-  
+```
+- Bash/PowerShell ---------------------------- (Shells)
+- Git(Hub) ----------------------------------- (VCS)
+- Docker ------------------------------------- (Conteiners)
+- Python || Rust (mostly translation) -------- (Langs)
+- Excel/VBA(enought to DA) ------------------- (Other Tools)
+```
+
 #### 🌱 Currently Learning
-- Advanced Git(Hub)
+```
 - Some Python FrameWorks
+- SQL
 - APIs
 - Rust
-
+```
 
 #### Like to Learn
+```
 - Some Langs like C# and Go.
 - .NET universe
+```
   
 #### 💞️ Know I’m looking to:
+```
 - Personal Projects (portfolio)
 - collaborate on "Rinha de Algoritmo"
+```
 
 #### 📫 How to reach me:
 - https://www.linkedin.com/in/gabrielng-rj99/
