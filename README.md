@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Gabriel Gomes
-### 👀 and I'm interested in Data Science(and ML) and Software Development, 
-#### Technologies:
+### and I'm interested in Data Science(and ML) and Software Development, 
+#### 👀 Technologies:
 - Bash/PowerShell || Git(Hub)
 - Docker
 - Python || Rust(learning and mostly translation) || Excel/VBA(enought to DA) || SQL || APIs
