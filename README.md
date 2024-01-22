@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Gabriel Gomes
-### and I'm interested in Data Science(and ML) and Software Development, 
+### and I'm interested in Data Science(and ML) and Software Engineering, 
 #### 👀 Technologies:
 ```
 - Bash/PowerShell ---------------------------- (Shells)
