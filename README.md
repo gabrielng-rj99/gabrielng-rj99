@@ -11,7 +11,7 @@
 - Excel/VBA(enought to DA) ------------------- (Other Tools)
 ```
 
-#### Learning
+#### 📚 Learning
 ```
 - WebSecurity from Cisco
 - Data Warehouses
@@ -19,7 +19,7 @@
 - Comm Protocols
 ```
 
-#### Like to Learn
+#### 💭 Like to Learn
 ```
 - Some Langs like C#, Rust, Kotlin and Go.
 ```
