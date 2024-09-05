@@ -14,6 +14,8 @@
 #### 📚 Learning
 ```
 - WebSecurity from Cisco
+- Cloud
+- Deploy
 - Data Warehouses
 - BigData
 - Comm Protocols
