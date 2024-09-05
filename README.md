@@ -6,27 +6,18 @@
 - Git(Hub) ----------------------------------- (VCS)
 - Docker ------------------------------------- (Conteiners)
 - Python || Rust (mostly translation) -------- (Langs)
+- SQL ---------------------------------------- (Database)
 - Excel/VBA(enought to DA) ------------------- (Other Tools)
-```
-
-#### 🌱 Currently Learning
-```
-- Some Python FrameWorks
-- SQL
-- APIs
-- Rust
 ```
 
 #### Like to Learn
 ```
-- Some Langs like C# and Go.
-- .NET universe
+- Some Langs like C#, Kotlin and Go.
 ```
   
 #### 💞️ Know I’m looking to:
 ```
 - Personal Projects (portfolio)
-- collaborate on "Rinha de Algoritmo"
 ```
 
 #### 📫 How to reach me:
