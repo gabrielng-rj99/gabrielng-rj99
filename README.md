@@ -6,13 +6,22 @@
 - Git(Hub) ----------------------------------- (VCS)
 - Docker ------------------------------------- (Conteiners)
 - Python || Rust (mostly translation) -------- (Langs)
+- html, CSS and JavaScript ------------------- (Websites)
 - SQL ---------------------------------------- (Database)
 - Excel/VBA(enought to DA) ------------------- (Other Tools)
 ```
 
+#### Learning
+```
+- WebSecurity from Cisco
+- Data Warehouses
+- BigData
+- Comm Protocols
+```
+
 #### Like to Learn
 ```
-- Some Langs like C#, Kotlin and Go.
+- Some Langs like C#, Rust, Kotlin and Go.
 ```
   
 #### 💞️ Know I’m looking to:
