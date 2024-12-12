@@ -5,16 +5,18 @@
 - Bash/PowerShell ---------------------------- (Shells)
 - Git(Hub) ----------------------------------- (VCS)
 - Docker ------------------------------------- (Conteiners)
-- Python || Rust (mostly translation) -------- (Langs)
+- Python || Go & Rust (mostly translation) --- (Langs)
 - html, CSS and JavaScript ------------------- (Websites)
 - SQL ---------------------------------------- (Database)
+- Linux + Servers ---------------------------- (SO and Server)
 - Excel/VBA(enought to DA) ------------------- (Other Tools)
 ```
 
 #### 📚 Learning
 ```
 - WebSecurity from Cisco
-- Cloud
+- DevOps
+- Cloud (aws)
 - Deploy
 - Data Warehouses
 - BigData
